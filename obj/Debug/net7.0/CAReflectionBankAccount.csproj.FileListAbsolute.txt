@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflectionBankAccount\bin\Debug\net7.0\CAReflectionBankAccount.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflectionBankAccount\bin\Debug\net7.0\CAReflectionBankAccount.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflectionBankAccount\bin\Debug\net7.0\CAReflectionBankAccount.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflectionBankAccount\bin\Debug\net7.0\CAReflectionBankAccount.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflectionBankAccount\bin\Debug\net7.0\CAReflectionBankAccount.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflectionBankAccount\obj\Debug\net7.0\CAReflectionBankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflectionBankAccount\obj\Debug\net7.0\CAReflectionBankAccount.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflectionBankAccount\obj\Debug\net7.0\CAReflectionBankAccount.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflectionBankAccount\obj\Debug\net7.0\CAReflectionBankAccount.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflectionBankAccount\obj\Debug\net7.0\CAReflectionBankAccount.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflectionBankAccount\obj\Debug\net7.0\refint\CAReflectionBankAccount.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflectionBankAccount\obj\Debug\net7.0\CAReflectionBankAccount.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflectionBankAccount\obj\Debug\net7.0\CAReflectionBankAccount.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflectionBankAccount\obj\Debug\net7.0\ref\CAReflectionBankAccount.dll
